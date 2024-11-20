@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Optboi (prashanna chand)
+- 👋 Hi, I’m @Prashanna Chand (prashanna chand)
 
