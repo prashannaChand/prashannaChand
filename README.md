@@ -11,7 +11,7 @@ I enjoy building projects, solving problems, and learning new technologies.
 
 Email: chandprashanna99@gmail.com
 
-Portfolio :  [Prashanna Chand](https://www.prashannachand.com.np)
+Portfolio :  [Prashanna Chand](https://www.prashannachand.com.np/)
 
 LinkedIn: [Prashanna Chand](https://www.linkedin.com/in/prashanna-chand-96a797304/)
 
