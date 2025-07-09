@@ -15,11 +15,6 @@ I enjoy building projects, solving problems, and learning new technologies.
 
 I'm always open to exciting projects, collaborations, and new opportunities! Whether you're a fellow developer, recruiter, or business owner looking to build something amazing, feel free to reach out.
 
----
-
-### 📊 GitHub Stats
-
-![Prashanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashannaChand&show_icons=true&theme=radical)
 
 ---
 
