@@ -24,7 +24,3 @@ I'm always open to exciting projects, collaborations, and new opportunities! Whe
 [![GitHub Streak](https://streak-stats.demolab.com?user=prashannaChand&theme=radical)](https://git.io/streak-stats)
 
 ---
-
-### 🧠 Top Languages Used
-
-![Top Langs](https://github-stats.omsimos.com/api/top-langs/?username=prashannaChand&theme=radical)
