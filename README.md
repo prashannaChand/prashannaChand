@@ -27,4 +27,4 @@ I'm always open to exciting projects, collaborations, and new opportunities! Whe
 
 ### 🧠 Top Languages Used
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prashannaChand&layout=compact&theme=radical)
+![Top Langs](https://github-stats.omsimos.com/api/top-langs/?username=prashannaChand&theme=radical)
