@@ -1,6 +1,7 @@
 # Hi 👋, I'm Prashanna Chand
 
 Aspiring QA Engineer | Backend Developer | AI Enthusiast
+
 I enjoy solving problems, building projects,  and learning new technologies.
 
 🌱 I’m currently studying BE Software Engineering.
