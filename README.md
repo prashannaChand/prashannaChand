@@ -1,7 +1,7 @@
 # Hi 👋, I'm Prashanna Chand
 
-A Backend developer | Django & AI Enthusiast  
-I enjoy building projects, solving problems, and learning new technologies.
+Aspiring QA Engineer | Backend Developer | AI Enthusiast
+I enjoy solving problems, building projects,  and learning new technologies.
 
 🌱 I’m currently studying BE Software Engineering.
 
